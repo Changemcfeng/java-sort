@@ -1,6 +1,6 @@
 # java-sort
 
- ### 排序算法如下
+ ### 排序算法如下:
 * 冒泡排序(bubbleSort) 
 * 选择排序(selectionSort)  
 * 插入排序(insertionSort) 	
